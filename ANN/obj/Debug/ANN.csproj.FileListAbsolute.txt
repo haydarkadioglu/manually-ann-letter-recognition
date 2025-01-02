@@ -1,0 +1,10 @@
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\bin\Debug\ANN.exe.config
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\bin\Debug\ANN.exe
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\bin\Debug\ANN.pdb
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\obj\Debug\ANN.csproj.AssemblyReference.cache
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\obj\Debug\ANN.Form1.resources
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\obj\Debug\ANN.Properties.Resources.resources
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\obj\Debug\ANN.csproj.GenerateResource.cache
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\obj\Debug\ANN.csproj.CoreCompileInputs.cache
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\obj\Debug\ANN.exe
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\ANN\ANN\obj\Debug\ANN.pdb
