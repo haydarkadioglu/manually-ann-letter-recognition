@@ -52,10 +52,12 @@ The application includes three variations of training data for letters A, B, C, 
    - Click the **Clear** button to reset the grid and predictions.
 
 ## Screenshots
-![Screenshot 1](./screenshots/Screenshot-1.png)
-![Screenshot 2](./screenshots/Screenshot-2.png)
-![Screenshot 3](./screenshots/Screenshot-3.png)
-![Screenshot 4](./screenshots/Screenshot-4.png)
+### Main Interface
+<img src="./screenshots/Screenshot1.png" alt="Training Complated" width="400">
+<img src="./screenshots/Screenshot2.png" alt="Prediction Example" width="400">
+<img src="./screenshots/Screenshot3.png" alt="Prediction Example" width="400">
+<img src="./screenshots/Screenshot4.png" alt="Prediction Example" width="400">
+
 
 
 ## How It Works
