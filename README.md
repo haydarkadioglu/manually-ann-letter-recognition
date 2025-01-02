@@ -81,4 +81,4 @@ The application includes three variations of training data for letters A, B, C, 
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **GitHub:** [yourusername](https://github.com/haydarkadioglu)
+- **GitHub:** [haydarkadioglu](https://github.com/haydarkadioglu)
