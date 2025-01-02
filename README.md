@@ -53,10 +53,10 @@ The application includes three variations of training data for letters A, B, C, 
 
 ## Screenshots
 ### Main Interface
-<img src="./screenshots/Screenshot1.png" alt="Training Complated" width="400">
-<img src="./screenshots/Screenshot2.png" alt="Prediction Example" width="400">
-<img src="./screenshots/Screenshot3.png" alt="Prediction Example" width="400">
-<img src="./screenshots/Screenshot4.png" alt="Prediction Example" width="400">
+<img src="./screenshots/Screenshot-1.png" alt="Training Complated" width="400">
+<img src="./screenshots/Screenshot-2.png" alt="Prediction Example" width="400">
+<img src="./screenshots/Screenshot-3.png" alt="Prediction Example" width="400">
+<img src="./screenshots/Screenshot-4.png" alt="Prediction Example" width="400">
 
 
 
